@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/VPN_SITE_LITERAL_2/static/css/main.ff8e4463.css",
+    "main.js": "/VPN_SITE_LITERAL_2/static/js/main.cb3a4a35.js",
+    "static/media/cashback 1.png": "/VPN_SITE_LITERAL_2/static/media/cashback 1.731690dd5cb6c8dad92d.png",
+    "static/media/business-secure 1.png": "/VPN_SITE_LITERAL_2/static/media/business-secure 1.874f6a0aae16f25ba7e2.png",
+    "static/media/clinic-based.png": "/VPN_SITE_LITERAL_2/static/media/clinic-based.01057bcf944626c63383.png",
+    "static/media/fairOaks_img.png": "/VPN_SITE_LITERAL_2/static/media/fairOaks_img.7898679f3053ac790330.png",
+    "static/media/cloud-vpn 1.png": "/VPN_SITE_LITERAL_2/static/media/cloud-vpn 1.adc001a3a9ec855c2c3c.png",
+    "static/media/coro.png": "/VPN_SITE_LITERAL_2/static/media/coro.e5c3a394f441a925d3c3.png",
+    "static/media/data-hosting-servers-connected-to-cloud.png": "/VPN_SITE_LITERAL_2/static/media/data-hosting-servers-connected-to-cloud.f5872f309524583b301a.png",
+    "static/media/map.png": "/VPN_SITE_LITERAL_2/static/media/map.cabea2ca64904380e715.png",
+    "index.html": "/VPN_SITE_LITERAL_2/index.html",
+    "static/media/angle-right.svg": "/VPN_SITE_LITERAL_2/static/media/angle-right.3a0f2737fca532525ad8d2553eb7fd8a.svg",
+    "main.ff8e4463.css.map": "/VPN_SITE_LITERAL_2/static/css/main.ff8e4463.css.map",
+    "main.cb3a4a35.js.map": "/VPN_SITE_LITERAL_2/static/js/main.cb3a4a35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff8e4463.css",
+    "static/js/main.cb3a4a35.js"
+  ]
+}
